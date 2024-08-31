@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for AAAAAAAAA
 
-### Ian Huang's First CS193 Homework
+# Ian Huang's First CS193 Homework
 
 - I love CS 193! The teachers are very cool and chill!
 - The content we learn is very useful :D
